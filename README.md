@@ -8,7 +8,7 @@
 
 **Brno, Czech Republic** · keeping infrastructure running across 🇨🇿 🇸🇰 🇭🇺 🇩🇪
 
-[![Website](https://img.shields.io/badge/Website-aboutme-9FE870?style=for-the-badge&logo=googlechrome&logoColor=0d1110)](https://hama4tux.github.io/Aboutme/)
+[![Website](https://img.shields.io/badge/Website-aboutme-9FE870?style=for-the-badge&logo=googlechrome&logoColor=0d1110)](https://martin.hamanovi.cz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Haas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-haas-489582131/)
 
 </div>
