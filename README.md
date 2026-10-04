@@ -10,7 +10,6 @@
 
 [![Website](https://img.shields.io/badge/Website-aboutme-9FE870?style=for-the-badge&logo=googlechrome&logoColor=0d1110)](https://hama4tux.github.io/Aboutme/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Haas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-haas-489582131/)
-[![CV](https://img.shields.io/badge/CV-Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1aBJ24TxbqdLd8DQTk9FQCnuh9CbFfP6r/edit)
 
 </div>
 
