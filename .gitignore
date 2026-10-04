@@ -1,0 +1,25 @@
+# ─── AI instrukce (lokální, necommitují se) ───
+AGENTS.md
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+.github/copilot-instructions.md
+.github/instructions/
+.github/prompts/
+.cursor/
+.cursorrules
+.windsurfrules
+.aider*
+.continue/
+
+# ─── Editor / OS ───
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ─── Lokální soubory ───
+.env
+*.log
+*.tmp
