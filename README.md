@@ -59,23 +59,7 @@ homelab:   active (running)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-### 🏠 Home lab
 
-Where curiosity needs no change request.
-
-```text
-  Internet
-     │
-  ┌──┴───────────────┐
-  │  VyOS · Sophos   │  edge / routing / firewall
-  └──┬───────────────┘
-  ┌──┴───────────────┐
-  │   Proxmox VE     │  VMs + containers
-  └──┬───────────────┘
-  ┌──┴───────────────┐
-  │  Home Assistant  │──── Zigbee sensors
-  └──────────────────┘──── ☀️ photovoltaics
-```
 
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
 ![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=flat-square&logo=zigbee&logoColor=white)
